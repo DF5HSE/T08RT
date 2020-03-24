@@ -1,4 +1,4 @@
-# T05ANIM
+# T08RT
 Ray-tracing
 
 To complile project you have to make virtual Disk 'X' by creating and launch that .bat file:
